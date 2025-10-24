@@ -13,7 +13,7 @@ markdown language - 글 서식 편집용 언어
 [네이버검색](htttps://www.naver.com)<br>
 [동물병원시스템프로젝트](https://github.com/zxcvals-cpu/hello-world/)<br>
 
-[발표자료](/project.pptx)<br>
+[발표자료](/강아지고양이.pptx)<br>
 
 ### 시스템 시연영상
 
