@@ -11,8 +11,7 @@ markdown language - 글 서식 편집용 언어
 
 ### 반려동물 시스템 발표자료
 [네이버검색](htttps://www.naver.com)<br>
-[동물병원시스템프로젝트]<br>
-(https://github.com/zxcvals-cpu/hello-world/)
+[동물병원시스템프로젝트](https://github.com/zxcvals-cpu/hello-world/)
 <br>
 
 [글씨](주소)<br>
